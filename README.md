@@ -120,16 +120,22 @@ Developed as a practice project for learning and personal development.
 ## 🖥 Interface (Menu Preview)
 
 <img width="515" height="279" alt="Login Screen" src="https://github.com/user-attachments/assets/783f7525-7b4b-4477-b7e6-25e7de09bda2" />
+<br>
 
 <img width="528" height="313" alt= "ATM Main Menue Screen" src="https://github.com/user-attachments/assets/af2b262f-ddb6-4a77-9a10-f88650a78a49" />
+<br>
 
 <img width="690" height="525" alt="Quick Withdraw Screen" src="https://github.com/user-attachments/assets/9cf93417-a254-45f3-8d37-682343355e84" />
+<br>
 
 <img width="684" height="433" alt="Normal Withdraw Screen" src="https://github.com/user-attachments/assets/4755a36d-395a-4fde-8cde-abfa27aeed84" />
+<br>
 
 <img width="695" height="391" alt="Deposit Screen" src="https://github.com/user-attachments/assets/d9e2c3b3-a1b4-4858-b071-ae5e17fe89f5" />
+<br>
 
 <img width="592" height="261" alt= "Check Balance Screen" src="https://github.com/user-attachments/assets/a1e55202-bb30-49ae-8194-43880cdbfc59" />
+<br>
 
 
 ✅ *Simple, clean, and efficient C++ project for beginners learning file-based ATM Banking systems.*
